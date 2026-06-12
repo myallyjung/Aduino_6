@@ -112,7 +112,7 @@
 ## 시연 영상
 
 [![시연 영상 썸네일](https://i.postimg.cc/tJrD2Wz5/Kakao-Talk-20260612-103215235.jpg)]
-[![시연 영상 링크](https://drive.google.com/file/d/1ze322OBa_9Lr84-m2Z4lXPehnsH0v_jj/view?usp=drive_link)]
+[[시연 영상 링크](https://drive.google.com/file/d/1ze322OBa_9Lr84-m2Z4lXPehnsH0v_jj/view?usp=drive_link)]
 
 ---
 
